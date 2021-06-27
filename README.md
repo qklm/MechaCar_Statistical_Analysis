@@ -15,7 +15,7 @@ UCB-Data-15
 ## T-Tests on Suspension Coils
 Examining the individual lots a little closer with individual t-tests affirms the assumptions in the summary data. Lot 1 is one the nose, Lot 2 is darn near perfect, Lot 3 is the problem child.
 
-## ## Study Design: MechaCar vs Competition
+## Study Design: MechaCar vs Competition
 Taking into account a refreshed batch of Lot 3, bringing "MechaCar" to market entails making sure it meets industry standard in the price range its built for. I.E. T-Tests on common indicators such as general and specific fuel economy depending, and upkeep/maintenence costs. 
 
 If the failure rate of industry standard components continues at 1/3, there is a significant chance this is a bad investment to continue on. 
